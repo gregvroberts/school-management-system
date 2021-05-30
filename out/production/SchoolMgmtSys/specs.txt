@@ -1,0 +1,32 @@
+
+Create a "School Management System" - "Students, Teachers, and Money"
+
+//Money Management system for school
+
+Keep track of students total fees
+fees already paid
+teacher's salary
+
+
+
+//School
+Teachers,
+Students,
+Total money earned,
+Total money spent - just the teacher's salary
+
+//Teacher
+id,
+fName,
+lName,
+salary
+
+//Student
+id,
+name,
+class,
+grade,
+fees paid,
+fees total
+
+OOP
